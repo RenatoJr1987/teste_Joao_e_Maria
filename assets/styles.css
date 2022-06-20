@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(118, 51, 185);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*tamnanho do boru em relação a a tela (max-width: 1000px;) */
+    max-width: auto;
+    margin: auto;
+    text-align: center;
+    background: linear-gradient( red, rgb(147, 34, 34), rgb(72, 16, 16));
+    display: inline;
+}
+
+.face {
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 40%;
+    margin: 0 0 0 15px
+}
+
+.face1 {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 10%;
+    right: 10px;
+    margin: auto;
+}
+
+#fruta {
+    color: rgb(233, 227, 227);
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 50px;
+    color: blanchedalmond;
+    max-width: auto;
+    margin: auto;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
